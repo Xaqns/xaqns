@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Xaqns/xaqns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaqns&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaqns&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/xaqns/count)
+
+## Social Media
+[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinprofile/)](https://www.linkedin.com/in/yourlinkedinprofile/)
