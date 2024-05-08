@@ -1,7 +1,6 @@
-# Welcome to My Profile!
+## **Xaqns**
 
-♦ Im working on: BIO Site
-♦ Main languages: :python:, :javascript:, :html5:, 
+# ♦ Im working on: BIO Site
 
 
 ## » GitHub Stats
