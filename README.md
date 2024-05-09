@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/xaqns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xaqns" height="30" width="40" /></a>
 <a href="https://dev.to/xaqns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xaqns" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cxaqns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cxaqns" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/xaqns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cxaqns" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
