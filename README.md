@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaqns" alt="xaqns" /></a> </p>
 
 - 🌱 I’m currently learning **C+, React**
+  
+- 🔭 I’m currently working on [BIO App](https://github.com/Xaqns/Bio-App)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 👨‍💻 All of my projects are available at [https://github.com/Xaqns](https://github.com/Xaqns)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
