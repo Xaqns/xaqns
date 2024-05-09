@@ -1,5 +1,4 @@
 # **Xaqns**
-![Banner](https://img.shields.io/badge/Python-Dev-black?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Xaqns/Xaqns?style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-666-darkviolet?style=flat-square)
 ## 📊 GitHub Stats
