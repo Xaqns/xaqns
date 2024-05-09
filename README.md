@@ -1,5 +1,5 @@
 # **Xaqns**
-
+![Banner](https://img.shields.io/badge/Realm-Darkness-black?style=flat-square)
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaqns&show_icons=true&theme=radical)
