@@ -1,5 +1,7 @@
 # **Xaqns**
 ![Last Commit](https://img.shields.io/github/last-commit/Xaqns/Xaqns?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-${{ steps.count_repos.outputs.repo_count }}-darkviolet?style=flat-square)
+
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xaqns&show_icons=true&theme=radical)
 
