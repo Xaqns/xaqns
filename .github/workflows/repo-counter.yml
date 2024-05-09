@@ -1,0 +1,25 @@
+name: Update Repo Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  update-repo-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Count Repositories
+        id: count_repos
+        run: |
+          REPO_COUNT=$(curl -s "https://api.github.com/users/yourusername/repos" | jq -r '. | length')
+          echo "::set-output name=repo_count::$REPO_COUNT"
+
+      - name: Update README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated Repo Count"
+          file_pattern: "README.md"
+          branch: ${{ github.ref }}
