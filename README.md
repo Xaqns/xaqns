@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C+, React**
   
-- 🔭 I’m currently working on [BIO App](https://github.com/Xaqns/Bio-App)
+- 🔭 I’m currently working on [BIO App](https://b1o.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xaqns](https://github.com/Xaqns)
 
