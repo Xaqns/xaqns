@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on [Ghost Unblocker v3](https://ghostublx.pages.dev/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xaqns](https://github.com/Xaqns)
+- 👨‍💻 All of my projects are available at [xaq.pages.dev](https://xaq.pages.dev/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
