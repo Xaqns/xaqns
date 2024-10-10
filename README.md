@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C+, React**
   
-- 🔭 I’m currently working on [burning.lol](https://burning.lol/)
+- 🔭 I’m currently working on [burning bio](https://burning.lol/)
 
 - 👨‍💻 All of my projects are available at [xaq.pages.dev](https://xaq.pages.dev/)
 
